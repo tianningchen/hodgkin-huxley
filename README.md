@@ -24,7 +24,7 @@ Finally, my code is heavily based on the python youtube video by Science with Ta
 ### Scratchwork & Science with Tal
 Science with Tal made some beautiful diagrams illustrating the mathematical intuition behind these calculations, and here I compile the reference ones I screnshotted for myself as well as the synopsis scratchwork I made for myself.
 
-#### My scratchwork synopsis:
+#### <mark>My scratchwork synopsis:</mark>
 ![hodgkin huxley scratchwork](https://github.com/tianningchen/hodgkin-huxley/blob/main/hh_scratch.pdf)
 
 #### Gating variables (n for potassium channel g_K; m,h for sodium channel g_Na):
