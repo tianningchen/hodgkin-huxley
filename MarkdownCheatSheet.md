@@ -1,6 +1,8 @@
 # Big Impressive Title
 ## Subtitles Are Nice
 
+This is a little cheat sheet of Markdown syntax I wrote for myself while making this project. I'm getting rusty...
+
 ### Section 1: General Formatting
 To **bold** or *italicize* words is pretty easy.
 And (by the way newlines mean nothing if they aren't BREAK newlines)
