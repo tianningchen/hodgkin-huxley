@@ -27,6 +27,7 @@ Science with Tal made some beautiful diagrams illustrating the mathematical intu
 My scratchwork synopsis:
 
 Gating variables (n for potassium channel g_K; m,h for sodium channel g_Na):
+![k current eqn](https://github.com/tianningchen/hodgkin-huxley/blob/main/k_current_eqn.png)
 
 Current equations for the potassium and sodium channels (I_K, I_Na):
 
