@@ -24,20 +24,20 @@ Finally, my code is heavily based on the python youtube video by Science with Ta
 ### Scratchwork & Science with Tal
 Science with Tal made some beautiful diagrams illustrating the mathematical intuition behind these calculations, and here I compile the reference ones I screnshotted for myself as well as the synopsis scratchwork I made for myself.
 
-My scratchwork synopsis:
+#### My scratchwork synopsis:
 ![hodgkin huxley scratchwork](https://github.com/tianningchen/hodgkin-huxley/blob/main/hh_scratch.pdf)
 
-Gating variables (n for potassium channel g_K; m,h for sodium channel g_Na):
+#### Gating variables (n for potassium channel g_K; m,h for sodium channel g_Na):
 ![gatingvar_n intuition](https://github.com/tianningchen/hodgkin-huxley/blob/main/gatingvar_n_intuition.png)
 ![k current intuition](https://github.com/tianningchen/hodgkin-huxley/blob/main/k_current_intuition.png)
 ![na current intuition](https://github.com/tianningchen/hodgkin-huxley/blob/main/na_current_intuition.png)
 
-Current equations for the potassium and sodium channels (I_K, I_Na):
+#### Current equations for the potassium and sodium channels (I_K, I_Na):
 ![k current eqn](https://github.com/tianningchen/hodgkin-huxley/blob/main/k_current_eqn.png)
 ![na current eqn_m](https://github.com/tianningchen/hodgkin-huxley/blob/main/na_current_eqn_m.png)
 ![na current eqn_h](https://github.com/tianningchen/hodgkin-huxley/blob/main/na_current_eqn_h.png)
 
-Putting current equations and membrane potential dVm/dt equation together:
+#### Putting current equations and membrane potential dVm/dt equation together:
 ![current_eqns](https://github.com/tianningchen/hodgkin-huxley/blob/main/current_eqns.png)
 ![dvdt_eqns](https://github.com/tianningchen/hodgkin-huxley/blob/main/dvdt_eqns.png)
 
